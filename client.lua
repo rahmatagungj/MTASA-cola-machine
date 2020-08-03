@@ -6,7 +6,6 @@ function gantiModel()
 end
 addEventHandler("onResourceStart", resourceRoot, gantiModel)
 
-
 local menggunakan_vending = 0
 botol = createObject(2647,0,0,0) 
 function cola ()

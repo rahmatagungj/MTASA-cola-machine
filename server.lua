@@ -67,8 +67,6 @@ function elementClicked( theButton, theState, thePlayer )
 end
 addEventHandler( "onElementClicked", root, elementClicked ) 
 
-
-
 function muatMesin()
   local query = mysql:query("SELECT  * FROM VendingCola")
   if query then
