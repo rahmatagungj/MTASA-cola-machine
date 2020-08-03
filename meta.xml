@@ -1,0 +1,11 @@
+
+<meta>
+
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" cache="false"/>
+	<oop>true</oop>
+	
+    <file src="sprunk.wav" />
+	<file src="cola.txd" />
+	<file src="cola.dff" />
+</meta>
